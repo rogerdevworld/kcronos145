@@ -1,4 +1,4 @@
-### Hillo everyone 👋
+### Hi everyone 👋
 
 <!--
 **Kcronos145/kcronos145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
